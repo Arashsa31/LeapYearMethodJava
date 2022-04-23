@@ -12,10 +12,8 @@ import java.util.Scanner;
  */
 public class LeapYearMethod 
 {
-
 	public static void main(String[] args) 
-	{
-		
+	{		
 		while (true)
 		{
 			//takes the user input
@@ -34,8 +32,7 @@ public class LeapYearMethod
 				System.out.println(year + " is a leap year!");
 			else
 				System.out.println(year + " is NOT a leap year!");
-		}		
-
+		}
 	}
 	
 	static boolean isLeapYear(int year)
