@@ -2,8 +2,6 @@ import java.util.Scanner;
 
 /**
  * @author Arash
- *
- *Refer to in class exercise 4, modify the code so that you will use a method to 
  *determine if a year is a leap year or not. The method signature is as follows:
  *static boolean isLeapYear(int year)
  *Modify your main program to invoke the method isLeapYear() 
